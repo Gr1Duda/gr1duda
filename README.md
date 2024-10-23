@@ -9,7 +9,8 @@
 
 ###
 
-<p align="left"></p>
+<p align="left">
+Apaixonada por programação e desenvolvimento de software, estou aprendendo novas linguagens e explorando a lógica dos sistemas. Tenho experiência com xadrez, que me ajuda a desenvolver habilidades estratégicas. Busco aplicar meu conhecimento em projetos pessoais e atividades extracurriculares.</p>
 
 ###
 
@@ -28,12 +29,13 @@
 
 ###
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/ce6efb21-adac-4156-99a4-e1a9a92f0f35">
+<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/81768e52-8b35-46db-ab25-8d3dd9636053">
+
 
 
 <h3 align="left">Connect with me!</h3>
 
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:Eduardagrum09@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/eduardagrum/)
 [![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/duda_grum/)
 
@@ -42,13 +44,7 @@
 </h3>
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="35" alt="javascript logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="react logo"  />
+ 
   <img width="8" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="35" alt="c logo"  />
    <img width="8" />
@@ -58,6 +54,10 @@
  
 
   
+
+
+
+
   
   
 
