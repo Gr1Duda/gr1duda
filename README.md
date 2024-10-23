@@ -29,9 +29,9 @@ Apaixonada por programação e desenvolvimento de software, estou aprendendo nov
 
 ###
 
-<img align="right" alt="" height="190px" src="https://github.com/user-attachments/assets/81768e52-8b35-46db-ab25-8d3dd9636053">
+<img align="right" alt="" height="210px" src="https://github.com/user-attachments/assets/81768e52-8b35-46db-ab25-8d3dd9636053">
 
-
+###
 
 <h3 align="left">Connect with me!</h3>
 
@@ -73,4 +73,3 @@ Apaixonada por programação e desenvolvimento de software, estou aprendendo nov
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gr1duda/gr1duda/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gr1duda/gr1duda/output/github-contribution-grid-snake.svg">
 </picture>
-###
